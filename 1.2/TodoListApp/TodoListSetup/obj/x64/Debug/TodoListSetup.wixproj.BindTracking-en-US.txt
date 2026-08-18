@@ -1,0 +1,4 @@
+BuiltPdbOutput	C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\en-US\TodoListSetup.wixpdb
+BuiltTargetOutput	C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\en-US\TodoListSetup.msi
+Input	C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\bin\Debug\net10.0\TodoListApp.dll
+Intermediate	C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\en-US\#cab1.cab

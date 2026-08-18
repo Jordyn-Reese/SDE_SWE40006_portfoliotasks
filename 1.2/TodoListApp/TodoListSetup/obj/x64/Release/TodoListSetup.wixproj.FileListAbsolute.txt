@@ -1,0 +1,8 @@
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\bin\x64\Release\en-US\TodoListSetup.msi
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\bin\x64\Release\en-US\TodoListSetup.wixpdb
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Release\TodoListSetup.wixproj.CoreCompileInputs.cache
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Release\en-US\TodoListSetup.msi
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Release\en-US\TodoListSetup.wixpdb
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Release\TodoListSetup.wixproj.BindTracking-en-US.txt
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\bin\x64\Release\en-US\cab1.cab
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Release\en-US\cab1.cab

@@ -1,0 +1,29 @@
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Fragment>
+		<!--Assign the id to match the .msi features and install directory(where I want exe to go)-->
+		<ComponentGroup Id="MainExecutable" Directory="INSTALLFOLDER">
+			<!--Add a component to the componet group-->
+			<Component Id ="MainExecutableComponent" Guid="{25EEB848-8415-423A-B01A-E775EEC594AE}">
+				<File Id="TodoListAppEXE" 
+					  Source="TodoListApp.exe"
+					  />
+			</Component>
+			<Component Id ="MainExecutableComponentDLL" Guid="{684648E4-7240-436C-AF66-FF752F6C9D8E}">
+				<File Id="TodoListAppDll"
+					  Source="TodoListApp.dll"
+					  />
+			</Component>
+			<Component Id ="ConfigJSON" Guid="{BD5095E2-9ABF-4EF0-89BC-FACA99AC8D12}">
+				<File Id="TodoListAppConfig"
+					  Source="TodoListApp.runtimeconfig.json"
+					  />
+			</Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>
+
+
+<!--
+.TargetDir
+ KeyPath="yes"
+-->

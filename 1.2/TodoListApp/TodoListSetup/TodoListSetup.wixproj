@@ -1,0 +1,18 @@
+﻿<Project Sdk="WixToolset.Sdk/7.0.0">
+  <ItemGroup>
+    <ProjectReference Include="..\TodoListApp\TodoListApp.csproj" />
+  </ItemGroup>
+	<PropertyGroup>
+		<AcceptEula>wix7</AcceptEula>
+		<DefineConstants>
+			Manufacturer=Swinburne_Student;
+			ProductName=TodoListApp;
+			Version=1.0.0;
+		</DefineConstants>
+	</PropertyGroup>
+</Project>
+<!--
+<ItemGroup>
+	<ProjectReference Include="..\TodoListApp\TodoListApp.csproj" />
+</ItemGroup>
+-->

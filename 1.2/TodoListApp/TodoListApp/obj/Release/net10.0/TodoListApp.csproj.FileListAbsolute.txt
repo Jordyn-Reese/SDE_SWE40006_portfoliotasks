@@ -1,0 +1,14 @@
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\bin\Release\net10.0\TodoListApp.exe
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\bin\Release\net10.0\TodoListApp.deps.json
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\bin\Release\net10.0\TodoListApp.runtimeconfig.json
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\bin\Release\net10.0\TodoListApp.dll
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\bin\Release\net10.0\TodoListApp.pdb
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.AssemblyInfoInputs.cache
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.AssemblyInfo.cs
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.csproj.CoreCompileInputs.cache
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.dll
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\refint\TodoListApp.dll
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.pdb
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\TodoListApp.genruntimeconfig.cache
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListApp\obj\Release\net10.0\ref\TodoListApp.dll
