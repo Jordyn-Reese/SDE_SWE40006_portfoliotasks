@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Descrribe windows installer schema-->
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<!--Outline the Details/Define .msi package-->
+	<Package Name = "$(var.ProductName)" 
+			 Manufacturer = "$(var.Manufacturer)" 
+			 Version = "$(var.Version)" 
+			 UpgradeCode = "{1B32FA21-FEE4-4CC9-A195-2D75B4CAE12B}" 
+			 Scope="perMachine">
+		
+		
+		<!--A feature link to the component files to install-->
+		<Feature Id="ProductFeature" Title="$(var.ProductName)">
+			<ComponentGroupRef Id="MainExecutable" />
+		</Feature>
+		
+	</Package>
+</Wix>
+
+<!--
+ Id = "TodoList"
+ <MediaTemplate EmbedCab="yes" />
+  Level="1"
+-->

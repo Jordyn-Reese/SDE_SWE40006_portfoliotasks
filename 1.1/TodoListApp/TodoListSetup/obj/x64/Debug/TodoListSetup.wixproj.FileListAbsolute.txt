@@ -1,0 +1,6 @@
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\TodoListSetup.wixproj.CoreCompileInputs.cache
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\bin\x64\Debug\en-US\TodoListSetup.msi
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\bin\x64\Debug\en-US\TodoListSetup.wixpdb
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\en-US\TodoListSetup.msi
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\en-US\TodoListSetup.wixpdb
+C:\Users\epicj\Downloads\Uni\SDE\vs\TodoListApp\TodoListSetup\obj\x64\Debug\TodoListSetup.wixproj.BindTracking-en-US.txt
